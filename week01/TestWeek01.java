@@ -31,11 +31,6 @@ public class TestWeek01 {
 
         customArray.delBySubscript(4);
 
-
-        for (String str : customArray) {
-
-        }
-
         customArray.add("第3个吃苹果的人");
         customArray.add("第n个吃苹果的人");
 
